@@ -5,4 +5,4 @@ Repositori ini merupakan kelanjutan dari proyek basis data terintegrasi untuk Br
 Untuk menjalankan aplikasi NyamHap, pastikan database sudah terkonfigurasi dengan benar. Berikut langkah-langkah setup:
 1. Install XAMPP dan aktifkan modul Apache.
 2. Gunakan PostgreSQL (via DBeaver atau tools lain).
-3. Import file SQL: Buka file nyamhap.sql dan jalankan semua script untuk membuat tabel dan mengisi data awal.
+3. Import file SQL: Buka file dummy-NYAMHAP.sql dan jalankan semua script untuk membuat tabel dan mengisi data awal.
