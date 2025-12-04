@@ -55,7 +55,7 @@ Untuk menjalankan aplikasi NyamHap, pastikan database dan lingkungan pengembanga
 - delete.php → Hapus bahan_baku
 - index.php → Daftar bahan_baku
 > assests/img/
-- 4K-removebg-preview.png
+- 4K-removebg-preview.png (logo NYAMHAP)
 > periklanan/
 - create.php → Tambah periklanan baru
 - edit.php → Edit data periklanan
