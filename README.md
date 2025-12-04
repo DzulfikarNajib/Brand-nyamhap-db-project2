@@ -22,46 +22,46 @@ Untuk menjalankan aplikasi NyamHap, pastikan database dan lingkungan pengembanga
 - Langkah: Buka folder proyek NYAMHAP di VS Code.
 # Implementasi Kode
 5. Buat kode PHP sesuai struktur folder proyek
-A. config/
+> config/
 - db.php → Template koneksi database PostgreSQL
-B. layout/
+> layout/
 - header.php → Header HTML untuk semua halaman
 - footer.php → Footer HTML untuk semua halaman
-C. menu/
+> menu/
 - create.php → Tambah staff
 - dit.php → Edit data staff
 - delete.php → Hapus staff
 - index.php → Daftar staff
-D. pesanan/
+> pesanan/
 - create.php → Form tambah pesanan
 - edit.php → Edit detail pesanan
 - delete.php → Hapus pesanan
 - index.php → Daftar pesanan
 - proses_create.php → Proses simpan pesanan baru
-D. pembayaran/
+> pembayaran/
 - input.php → Input pembayaran baru
 - edit.php → Edit status pembayaran
 - delete.php → Hapus data pembayaran
-E. pelanggan/
+> pelanggan/
 - create.php → Tambah pelanggan
 - dit.php → Edit data pelanggan
 - delete.php → Hapus pelanggan
 - index.php → Daftar pelanggan
-F. laporan
+> laporan
 - index.php → Tampilan laporan (penjualan, menu, dll)
-G. bahan_baku/
+> bahan_baku/
 - create.php → Tambah bahan_baku baru
 - dit.php → Edit data bahan_baku
 - delete.php → Hapus bahan_baku
 - index.php → Daftar bahan_baku
-H. assests/img/
+> assests/img/
 - 4K-removebg-preview.png
-I. periklanan/
+> periklanan/
 - create.php → Tambah periklanan baru
 - edit.php → Edit data periklanan
 - delete.php → Hapus periklanan
 - index.php → Tampilkan periklanan
-J. menu/
+> menu/
 - create.php → Tambah menu baru
 - edit.php → Edit data menu
 - delete.php → Hapus menu
