@@ -1,7 +1,7 @@
 # Brand-nyamhap-db-project2
 Repositori ini merupakan kelanjutan dari proyek basis data terintegrasi untuk Brand NyamHap, sebuah bisnis FnB yang berfokus pada peningkatan efisiensi operasional melalui sistem digital. Pada tahap ini, pengembangan difokuskan pada implementasi desain fisik basis data, sehingga sistem dapat berjalan secara optimal dan mendukung kebutuhan operasional bisnis secara nyata.
 
-#Database Setup – Brand NyamHap
+# Database Setup–Brand NyamHap
 Untuk menjalankan aplikasi NyamHap, pastikan database dan lingkungan pengembangan sudah terkonfigurasi dengan benar. Berikut langkah-langkah setup:
 1. Install XAMPP dan aktifkan modul Apache
 - Digunakan untuk menjalankan server lokal dan mengeksekusi file PHP.
