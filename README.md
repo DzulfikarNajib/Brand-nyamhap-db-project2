@@ -23,7 +23,7 @@ Untuk menjalankan aplikasi NyamHap, pastikan database dan lingkungan pengembanga
 # Implementasi Kode
 5. Buat kode PHP sesuai struktur folder proyek
 > config/
-- [config/db.php](config/db/php) → Template koneksi database PostgreSQL
+- [db.php](db.php) → Template koneksi database PostgreSQL
 > layout/
 - header.php → Header HTML untuk semua halaman
 - footer.php → Footer HTML untuk semua halaman
