@@ -25,47 +25,50 @@ Untuk menjalankan aplikasi NyamHap, pastikan database dan lingkungan pengembanga
 > config/
 - [NYAMHAP/config/db.php](NYAMHAP/config/db.php) → Template koneksi database PostgreSQL
 > layout/
-- header.php → Header HTML untuk semua halaman
-- footer.php → Footer HTML untuk semua halaman
+- [NYAMHAP/config/header.php](NYAMHAP/layout/header.php) → Header HTML untuk semua halaman
+- [NYAMHAP/config/footer.php](NYAMHAP/layout/footer.php) → Footer HTML untuk semua halaman
 > menu/
-- create.php → Tambah staff
-- dit.php → Edit data staff
-- delete.php → Hapus staff
-- index.php → Daftar staff
+- [NYAMHAP/menu/craete.php](NYAMHAP/menu/create.php) → Tambah menu
+- [NYAMHAP/menu/edit.php](NYAMHAP/menu/edit.php) → Edit data menu
+- [NYAMHAP/menu/delete.php](NYAMHAP/menu/delete.php) → Hapus menu
+- [NYAMHAP/menu/index.php](NYAMHAP/menu/index.php) → Daftar menu
 > pesanan/
-- create.php → Form tambah pesanan
-- edit.php → Edit detail pesanan
-- delete.php → Hapus pesanan
-- index.php → Daftar pesanan
-- proses_create.php → Proses simpan pesanan baru
+- [NYAMHAP/pesanan/footer.php](NYAMHAP/pesanan/create.php) → Tambah pesanan
+- [NYAMHAP/pesanan/edit.php](NYAMHAP/pesanan/edit.php) → Edit data pesanan
+- [NYAMHAP/pesanan/delete.php](NYAMHAP/pesanan/delete.php) → Hapus pesanan
+- [NYAMHAP/pesanan/index.php](NYAMHAP/pesanan/index.php) → Daftar pesanan
+- [NYAMHAP/pesanan/proses_create.php](NYAMHAP/pesanan/proses_create.php) → Daftar pesanan
 > pembayaran/
-- input.php → Input pembayaran baru
-- edit.php → Edit status pembayaran
-- delete.php → Hapus data pembayaran
+- [NYAMHAP/pembayaran/input.php](NYAMHAP/pembayaran/input.php) → Input pembayaran baru
+- [NYAMHAP/pembayaran/edit.php](NYAMHAP/pembayaran/edit.php) → Edit status pembayaran
+- [NYAMHAP/pembayaran/index.php](NYAMHAP/pembayaran/index.php) → Daftar pelanggan
 > pelanggan/
-- create.php → Tambah pelanggan
-- dit.php → Edit data pelanggan
-- delete.php → Hapus pelanggan
-- index.php → Daftar pelanggan
+- [NYAMHAP/pelanggan/craete.php](NYAMHAP/pelanggan/create.php) → Tambah pelanggan
+- [NYAMHAP/pelanggan/edit.php](NYAMHAP/pelanggan/edit.php) → Edit data pelanggan
+- [NYAMHAP/pelanggan/delete.php](NYAMHAP/pelanggan/delete.php) → Hapus pelanggan
+- [NYAMHAP/pelanggan/index.php](NYAMHAP/pelanggan/index.php) → Daftar pelanggan
 > laporan
-- index.php → Tampilan laporan (penjualan, menu, dll)
+- [NYAMHAP/laporan/index.php](NYAMHAP/laporan/index.php) → Tampilan laporan (penjualan, menu, dll)
 > bahan_baku/
-- create.php → Tambah bahan_baku baru
-- dit.php → Edit data bahan_baku
-- delete.php → Hapus bahan_baku
-- index.php → Daftar bahan_baku
+- [NYAMHAP/bahan_baku/craete.php](NYAMHAP/bahan_baku/create.php) → Tambah bahan_baku
+- [NYAMHAP/bahan_baku/edit.php](NYAMHAP/bahan_baku/edit.php) → Edit data bahan_baku
+- [NYAMHAP/bahan_baku/delete.php](NYAMHAP/bahan_baku/delete.php) → Hapus bahan_baku
+- [NYAMHAP/bahan_baku/index.php](NYAMHAP/bahan_baku/index.php) → Daftar bahan_baku
 > assests/img/
 - 4K-removebg-preview.png (logo NYAMHAP)
 > periklanan/
-- create.php → Tambah periklanan baru
-- edit.php → Edit data periklanan
-- delete.php → Hapus periklanan
-- index.php → Tampilkan periklanan
+- [NYAMHAP/periklanan/craete.php](NYAMHAP/periklanan/create.php) → Tambah periklanan
+- [NYAMHAP/periklanan/edit.php](NYAMHAP/periklanan/edit.php) → Edit data periklanan
+- [NYAMHAP/periklanan/delete.php](NYAMHAP/periklanan/delete.php) → Hapus periklanan
+- [NYAMHAP/periklanan/index.php](NYAMHAP/periklanan/index.php) → Daftar periklanan
 > menu/
-- create.php → Tambah menu baru
-- edit.php → Edit data menu
-- delete.php → Hapus menu
-- index.php → Tampilkan daftar menu
-
-Kode ?PHP > NYAMHAP
-https://drive.google.com/drive/folders/1V8VLMPAx1iLph5At27mOljJ7roCSK9KF?usp=sharing
+- [NYAMHAP/menu/craete.php](NYAMHAP/menu/create.php) → Tambah menu
+- [NYAMHAP/menu/edit.php](NYAMHAP/menu/edit.php) → Edit data menu
+- [NYAMHAP/menu/delete.php](NYAMHAP/menu/delete.php) → Hapus menu
+- [NYAMHAP/menu/index.php](NYAMHAP/menu/index.php) → Daftar menu
+> login.php
+- [NYAMHAP/login.php](NYAMHAP/login.php) → Fitur Lofin (pakai data staff)
+> logout.php
+- [NYAMHAP/logout.php](NYAMHAP/logout.php) → Logout sesi
+> index.php (index utama)
+- [NYAMHAP/index.php](NYAMHAP/index.php) → Index utama 
