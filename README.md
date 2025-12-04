@@ -66,3 +66,6 @@ Untuk menjalankan aplikasi NyamHap, pastikan database dan lingkungan pengembanga
 - edit.php → Edit data menu
 - delete.php → Hapus menu
 - index.php → Tampilkan daftar menu
+
+Kode ?PHP > NYAMHAP
+https://drive.google.com/drive/folders/1V8VLMPAx1iLph5At27mOljJ7roCSK9KF?usp=sharing
