@@ -71,4 +71,8 @@ Untuk menjalankan aplikasi NyamHap, pastikan database dan lingkungan pengembanga
 > logout.php
 - [NYAMHAP/logout.php](NYAMHAP/logout.php) → Logout sesi
 > index.php (index utama)
-- [NYAMHAP/index.php](NYAMHAP/index.php) → Index utama 
+- [NYAMHAP/index.php](NYAMHAP/index.php) → Index utama
+
+
+# Referensi 
+Modul Proyek Praktikum Basis Data Semester Ganjil 2025
